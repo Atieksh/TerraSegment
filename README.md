@@ -18,8 +18,9 @@ The project successfully generates segmented outputs from input images and demon
 
 Future improvements include increasing IoU score, using better loss functions, applying data augmentation, and deploying the model in real-time systems.
 
-** Input **
+*Input*
 <img src = "resultsinput1.png">
 
-** Output ** 
+*Output* 
 <img src = "resultsoutput1.png">
+
