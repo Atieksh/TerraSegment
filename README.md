@@ -17,3 +17,5 @@ To run the project:
 The project successfully generates segmented outputs from input images and demonstrates the application of deep learning in terrain understanding.
 
 Future improvements include increasing IoU score, using better loss functions, applying data augmentation, and deploying the model in real-time systems.
+
+<img src = "resultsinput1.png">
