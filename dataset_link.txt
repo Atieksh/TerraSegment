@@ -1,0 +1,11 @@
+Dataset: Synthetic Desert Semantic Segmentation Dataset
+
+Description:
+The dataset consists of off-road desert images with pixel-wise annotations.
+Classes include terrain elements such as trees, rocks, sky, grass, and other natural objects.
+
+Source:
+Dataset was provided as part of the hackathon/problem statement and is not publicly hosted.
+
+Note:
+Due to size constraints, the dataset is not included in this repository.
